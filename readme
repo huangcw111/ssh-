@@ -1,0 +1,1 @@
+nohup java -jar XXX.jar >log.out &
